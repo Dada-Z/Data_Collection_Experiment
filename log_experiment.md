@@ -1,10 +1,9 @@
 # Data Collection Log
 
-| Field                      | Entry | Entry | Entry | Entry | Entry |
+| Field                      | Seg1  | Seg2  | Seg3  | Seg4  | Seg5  |
 |----------------------------|-------|-------|-------|-------|-------|
 | Date (YYYY-MM-DD)          |       |       |       |       |       |
 | Start Time                 |       |       |       |       |       |
-| Road Segment               |       |       |       |       |       |
 | Road Surface Type (A/C)    |       |       |       |       |       |
 | Road Condition Type        |       |       |       |       |       |
 | Traffic Level (L/M/C)      |       |       |       |       |       |
