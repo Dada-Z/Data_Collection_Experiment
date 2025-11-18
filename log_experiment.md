@@ -42,7 +42,7 @@ A recommended filename:
 | Traffic Level        | L            |  L            | L         | L         | L             | L         | L             | L         | L              | L             |
 | Vehicle Speed        | < 20 mph     | < 20 mph      | < 20 mph  | < 20 mph  | < 20 mph      | < 20 mph  | < 20 mph      | < 20 mph  | < 20 mph       | < 20 mph      |
 | Weather              | Clear        | Clear         | Clear     | Clear     | Clear         | Clear     | Clear         | Clear     | Clear          | Clear         |
-| ROS Bag File name    | r1-s1-2025-11-18-08-58-clear.bag  | ... | ... |... |... |... |... |... |... |... |
+| ROS Bag File name    | r1-s1-2025-11-18-08-58-52-clear.bag  | ... | ... |... |... |... |... |... |... |... |
 
 
 | Field Run 2          | Seg1         | Seg2          |Seg3       |Seg4       |Seg5           |Seg6       |Seg7           |Seg8       |Seg9            |Seg10          |
@@ -52,7 +52,7 @@ A recommended filename:
 | Traffic Level        | L            |  L            | L         | L         | L             | L         | L             | L         | L              | L             |
 | Vehicle Speed        | < 20 mph     | < 20 mph      | < 20 mph  | < 20 mph  | < 20 mph      | < 20 mph  | < 20 mph      | < 20 mph  | < 20 mph       | < 20 mph      |
 | Weather              | Cloudy       | Cloudy        | Cloudy    | Cloudy    |  Cloudy       | Cloudy    | Cloudy        | Cloudy    | Cloudy         | Cloudy        |
-| ROS Bag File name    | r2-s1-2025-11-18-12-43-cloudy.bag  | ... | ... |... |... |... |... |... |... |...|
+| ROS Bag File name    | r2-s1-2025-11-18-12-43-34-cloudy.bag  | ... | ... |... |... |... |... |... |... |...|
 
 
 | Field Run 3          | Seg1         | Seg2          |Seg3       |Seg4       |Seg5           |Seg6       |Seg7           |Seg8       |Seg9            |Seg10          |
