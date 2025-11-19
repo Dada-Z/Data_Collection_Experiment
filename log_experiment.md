@@ -63,3 +63,17 @@ A recommended file name:
 | Vehicle Speed        | < 20 mph     | < 20 mph      | < 20 mph  | < 20 mph  | < 20 mph      | < 20 mph  | < 20 mph      | < 20 mph  | < 20 mph       | < 20 mph      |
 | Weather              | Cloudy       | Cloudy        | Cloudy    | Cloudy    |  Cloudy       | Cloudy    | Cloudy        | Cloudy    | Cloudy         | Cloudy        |
 | ROS Bag File name    | r3-s1-2025-11-18-17-22-52-cloudy.bag  | ... | ... |... |... |... |... |... |... |...|
+
+
+| Field Run 4          | Seg1         | Seg2          |Seg3       |Seg4       |Seg5           |Seg6       |Seg7           |Seg8       |Seg9            |Seg10          |
+|----------------------|--------------|---------------|-----------|-----------|---------------|-----------|---------------|-----------|----------------|---------------|
+| Date                 |2025-11-18    |2025-11-18     |2025-11-18 |2025-11-18 |2025-11-18     |2025-11-18 |2025-11-18     |2025-11-18 |2025-11-18      |2025-11-18     |
+| Start Time           | 19:33 PM     | 19:34 PM      | 19:35 PM  | 19:36 PM  | 19:38 PM      | 19:39 PM  | 19:41 PM      | 19:43 PM  | 19:43 PM       | 19:44 PM      |
+| Traffic Level        | L            |  L            | L         | L         | L             | L         | L             | L         | L              | L             |
+| Vehicle Speed        | < 20 mph     | < 20 mph      | < 20 mph  | < 20 mph  | < 20 mph      | < 20 mph  | < 20 mph      | < 20 mph  | < 20 mph       | < 20 mph      |
+| Weather              | Cloudy       | Cloudy        | Cloudy    | Cloudy    |  Cloudy       | Cloudy    | Cloudy        | Cloudy    | Cloudy         | Cloudy        |
+| ROS Bag File name    | r4-s3-2025-11-18-19-35-05-cloudy.bag  | ... | ... |... |... |... |... |... |... |...|
+
+
+
+
